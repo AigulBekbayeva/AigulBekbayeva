@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Aigul Bekbayeva
 
-<!--
-**AigulBekbayeva/AigulBekbayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🗺️ GIS & Remote Sensing Specialist
 
-Here are some ideas to get you started:
+I'm a spatial analyst passionate about **raster analysis**, **remote sensing**, and solving real-world geographic problems through data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus
+- Developing hydrologic models and flood forecasting systems
+- Machine learning for satellite image classification
+- Automated spatial analysis workflows with Python
+
+### 🛠️ Technical Skills
+- **GIS**: ArcGIS Pro, ArcGIS Spatial Analyst, QGIS, Google Earth Engine
+- **Programming**: Python (ArcPy, GDAL, pandas, scikit-learn), SQL, R
+- **Remote Sensing**: Landsat, Sentinel, MODIS, Planet Labs imagery
+- **Raster Analysis**: Terrain modeling, suitability analysis, hydrologic workflows
+- **Machine Learning**: Random Forest, SVM, LSTM
+
+### 🌟 Featured Projects
+
+### 📫 Connect with me
+- 📧 Email: bekbaevaaigul@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/aigul-bekbayeva-59b6a7108/ 
+- 🌐 Portfolio: ... coming soon
+
+### 💡 Fun Fact
+I have a French bulldog.
+
+---
+⭐️ From [AigulBekbayeva](https://github.com/AigulBekbayeva)
