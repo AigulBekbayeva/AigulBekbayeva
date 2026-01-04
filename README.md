@@ -17,7 +17,10 @@ I'm a spatial analyst passionate about **raster analysis**, **remote sensing**, 
 - **Machine Learning**: Random Forest, SVM, LSTM
 
 ### 🌟 Featured Projects
-
+- 🌊 Discharge forecast LSTM neural networks with ensemble weather forecasts https://github.com/AigulBekbayeva/flood-forecast-lstm
+-   Forest health classification https://github.com/AigulBekbayeva/greenbelt
+-   Web visualization of Discharge forecast for KZ https://github.com/AigulBekbayeva/water_web_talsimKZ
+-   Fire reports automation https://github.com/AigulBekbayeva/rds 
 ### 📫 Connect with me
 - 📧 Email: bekbaevaaigul@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/aigul-bekbayeva-59b6a7108/ 
