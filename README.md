@@ -24,7 +24,7 @@ I'm a spatial analyst passionate about **raster analysis**, **remote sensing**, 
 ### 📫 Connect with me
 - 📧 Email: bekbaevaaigul@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/aigul-bekbayeva-59b6a7108/ 
-- 🌐 Portfolio: ... coming soon
+- 🌐 Portfolio:  https://aigulbekbayeva.github.io/ 
 
 ### 💡 Fun Fact
 I have a French bulldog.
