@@ -8,6 +8,7 @@ I'm a spatial analyst passionate about **raster analysis**, **remote sensing**, 
 - Developing hydrologic models and flood forecasting systems
 - Machine learning for satellite image classification
 - Automated spatial analysis workflows with Python
+- Forecasting the risk of locust outbreaks in the regions of Kazakhstan based on climatic data
 
 ### 🛠️ Technical Skills
 - **GIS**: ArcGIS Pro, ArcGIS Spatial Analyst, QGIS, Google Earth Engine
@@ -20,14 +21,15 @@ I'm a spatial analyst passionate about **raster analysis**, **remote sensing**, 
 - 🌊 Discharge forecast LSTM neural networks with ensemble weather forecasts https://github.com/AigulBekbayeva/flood-forecast-lstm
 -   Forest health classification https://github.com/AigulBekbayeva/greenbelt
 -   Web visualization of Discharge forecast for KZ https://github.com/AigulBekbayeva/water_web_talsimKZ
--   Fire reports automation https://github.com/AigulBekbayeva/rds 
+-   Fire reports automation https://github.com/AigulBekbayeva/rds
+-   Locust risk forecast https://aigulbekbayeva.github.io/locust/ https://github.com/AigulBekbayeva/locust
 ### 📫 Connect with me
 - 📧 Email: bekbaevaaigul@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/aigul-bekbayeva-59b6a7108/ 
 - 🌐 Portfolio:  https://aigulbekbayeva.github.io/ 
 
 ### 💡 Fun Fact
-I have a French bulldog.
+I have a French bulldog - Rem.
 
 ---
 ⭐️ From [AigulBekbayeva](https://github.com/AigulBekbayeva)
