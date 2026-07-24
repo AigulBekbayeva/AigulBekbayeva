@@ -25,7 +25,7 @@ I'm a spatial analyst passionate about **raster analysis**, **remote sensing**, 
 -   Locust risk forecast https://aigulbekbayeva.github.io/locust/ https://github.com/AigulBekbayeva/locust
 ### 📫 Connect with me
 - 📧 Email: bekbaevaaigul@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/aigul-bekbayeva-59b6a7108/ 
+- 💼 LinkedIn: https://www.linkedin.com/in/aigulbekbayeva/ 
 - 🌐 Portfolio:  https://aigulbekbayeva.github.io/ 
 
 ### 💡 Fun Fact
