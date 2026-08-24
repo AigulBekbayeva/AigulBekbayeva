@@ -9,20 +9,25 @@ I'm a spatial analyst passionate about **raster analysis**, **remote sensing**, 
 - Machine learning for satellite image classification
 - Automated spatial analysis workflows with Python
 - Forecasting the risk of locust outbreaks in the regions of Kazakhstan based on climatic data
+- Climate change analysis
 
 ### 🛠️ Technical Skills
 - **GIS**: ArcGIS Pro, ArcGIS Spatial Analyst, QGIS, Google Earth Engine
 - **Programming**: Python (ArcPy, GDAL, pandas, scikit-learn), SQL, R
 - **Remote Sensing**: Landsat, Sentinel, MODIS, Planet Labs imagery
 - **Raster Analysis**: Terrain modeling, suitability analysis, hydrologic workflows
-- **Machine Learning**: Random Forest, SVM, LSTM
+- **Machine Learning**: Statistical modeling · SPSS | LSTM · CNN · Gradient Boosting · Random Forest · SVM · SARIMA · MaxEnt | PyTorch | Model validation  & evaluation
+- **Visualization & Web**: Power BI, Dashboards & BI reporting, GeoServer, HTML
+- **Domain modeling tools**: DELFT-FEWS | HEC-RAS | DSSAT | HEC-HMS | WEAP
+
 
 ### 🌟 Featured Projects
 - 🌊 Discharge forecast LSTM neural networks with ensemble weather forecasts https://github.com/AigulBekbayeva/flood-forecast-lstm
--   Forest health classification https://github.com/AigulBekbayeva/greenbelt
--   Web visualization of Discharge forecast for KZ https://github.com/AigulBekbayeva/water_web_talsimKZ
--   Fire reports automation https://github.com/AigulBekbayeva/rds
--   Locust risk forecast https://aigulbekbayeva.github.io/locust/ https://github.com/AigulBekbayeva/locust
+- 🌲 Forest health classification https://github.com/AigulBekbayeva/greenbelt
+- ⛈️ Web visualization of Discharge forecast for KZ https://github.com/AigulBekbayeva/water_web_talsimKZ
+- 📝 Fire reports automation https://github.com/AigulBekbayeva/rds
+- 🔥 Steppe fire simulations https://github.com/AigulBekbayeva/fire-spread-sandbox
+- 🦗 Locust risk forecast https://aigulbekbayeva.github.io/locust/ https://github.com/AigulBekbayeva/locust
 ### 📫 Connect with me
 - 📧 Email: bekbaevaaigul@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/aigulbekbayeva/ 
